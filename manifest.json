@@ -1,0 +1,5 @@
+{
+	"name": "url",
+	"binding": "urlAction",
+	"type" : "text"
+}
