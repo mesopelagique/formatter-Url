@@ -7,7 +7,7 @@
 [![release][release-shield]][release-url]
 [![discord][discord-shield]][discord-url]
 
-<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-formatter-Url/blob/master/formatter.png" alt=“Url” height="auto" width="200"></p>
+<p align="center"><img src="https://github.com/mesopelagique/formatter-UrlInApp/blob/master/formatter.png" alt=“Url” height="auto" width="200"></p>
 
 ## Url
 
@@ -19,7 +19,7 @@
 
 * To use a custom formatter, the first thing you'll need to do is create a `YourDatabase.4dbase/Resources/formatters` folder.
 * Then drop the formatter folder into it.
-* 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [code-shield]: https://img.shields.io/static/v1?label=language&message=swift&color=orange
