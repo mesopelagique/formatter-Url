@@ -16,7 +16,7 @@ extension UILabel {
             return self.text
         }
         set {
-            if self.gestureRecognizers.isEmpty {
+            if self.gestureRecognizers?.isEmpty ?? true {
                 self.addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(openSafariViewController(_:))))
             }
             self.text = newValue
