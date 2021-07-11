@@ -1,5 +1,5 @@
 {
-	"name": "url",
-	"binding": "urlAction",
+	"name": "urlInApp",
+	"binding": "urlInApp",
 	"type" : "text"
 }
