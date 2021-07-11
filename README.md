@@ -3,10 +3,10 @@
 ## Url
 
 * **Format:** Text ⟶ URL
-* **Function:** open Safari app on click
+* **Function:** open on click a Safari view without going out from the app 
 * **Type:** Swift formatter
 
 ## How to integrate
 
-* To use a custom formatter, the first thing you'll need to do is create a YourDatabase.4dbase/Resources/formatters folder.
+* To use a custom formatter, the first thing you'll need to do is create a `YourDatabase.4dbase/Resources/formatters` folder.
 * Then drop the formatter folder into it.
